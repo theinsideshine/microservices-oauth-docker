@@ -70,3 +70,7 @@ rabbitmq
 
 [Guia para despliegue en google cloud platform](doc/cgp-despliegue-docker-compose.pdf)
 
+ 
+
+
+[![Despliegue en gcp usando docker-compose](images/docker-ms.gif)](https://www.youtube.com/watch?v=DzVGOHpBsGI) 
