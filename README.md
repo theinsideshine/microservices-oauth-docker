@@ -73,4 +73,4 @@ rabbitmq
  
 
 
-[![Despliegue en gcp usando docker-compose](images/docker-ms.gif)](https://www.youtube.com/watch?v=DzVGOHpBsGI) 
+[![Despliegue en gcp usando docker-compose](images/gcp.gif)](https://www.youtube.com/watch?v=DzVGOHpBsGI) 
