@@ -68,5 +68,5 @@ rabbitmq
 [![Despliegue con docker en local](images/docker-ms.gif)](https://www.youtube.com/watch?v=D8KEeTIcJeU) 
 
 
-[Guia para despliegue en google cloud platform](doc/cgp-despliegue docker-compose.pdf)
+[Guia para despliegue en google cloud platform](doc/cgp-despliegue-docker-compose.pdf)
 
