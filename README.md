@@ -4,8 +4,10 @@
  La intencion de este proyecto es familiarizarse con el ecosistema
  requerido para un crud de usuarios con Oauth, y dos microservicios a modo didactico,
  para usar balanceo de carga y servidor de configuracion de microservicios
+ Se le agrego opciones de trazabilidad con zipkin , rabbitMq.
  
- El proyecto se encuentra en desarrollo
+ El ecosistema fue desplegado con docker en el local y luego en google cloud platform.
+
  
  
 Microservicios levantados 
